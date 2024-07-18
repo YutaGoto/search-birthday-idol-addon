@@ -1,0 +1,13 @@
+{
+  "name": "Search Birthday Idol for Idolm@ster",
+  "description": "Search Birthday Idol for Idolm@ster",
+  "homepage_url": "https://github.com/YutaGoto",
+  "manifest_version": 2,
+  "version": "0.0.1",
+
+  "permissions": ["<all_urls>"],
+  "browser_action": {
+    "default_title": "アイドル検索",
+    "default_popup": "searchPanel/index.html"
+  }
+}

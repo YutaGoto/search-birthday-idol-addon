@@ -1,0 +1,15 @@
+{
+  "name": "search-birthday-idol-addon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "oxlint"
+  },
+  "keywords": [],
+  "author": "Yuta Goto",
+  "license": "ISC",
+  "devDependencies": {
+    "oxlint": "^0.4.4"
+  }
+}
