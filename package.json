@@ -4,12 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "oxlint"
+    "lint": "oxlint ./src",
+    "dev": "rspack dev",
+    "build": "rspack build",
+    "zip": "zip -FS search-birthday-idol-addon.zip dist"
   },
   "keywords": [],
   "author": "Yuta Goto",
   "license": "ISC",
   "devDependencies": {
+    "@rspack/cli": "^1.2.2",
+    "@rspack/core": "^1.2.2",
     "oxlint": "^0.15.8"
   }
 }
