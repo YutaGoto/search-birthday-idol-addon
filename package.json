@@ -10,6 +10,6 @@
   "author": "Yuta Goto",
   "license": "ISC",
   "devDependencies": {
-    "oxlint": "^0.15.6"
+    "oxlint": "^0.15.8"
   }
 }
