@@ -14,7 +14,7 @@
   "license": "ISC",
   "devDependencies": {
     "@rspack/cli": "^1.2.2",
-    "@rspack/core": "^1.2.2",
+    "@rspack/core": "^1.2.3",
     "oxlint": "^0.15.10"
   }
 }
