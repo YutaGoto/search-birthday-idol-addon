@@ -15,7 +15,7 @@
   "devDependencies": {
     "@rspack/cli": "^1.2.2",
     "@rspack/core": "^1.2.2",
-    "oxlint": "^0.15.10",
+    "oxlint": "^0.15.12",
     "sparql-http-client": "^3.0.1"
   }
 }
