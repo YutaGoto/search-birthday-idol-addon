@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "oxlint ./src",
+    "lint:ci": "oxlint ./src --deny-warnings ",
     "dev": "rspack dev",
     "build": "rspack build",
     "zip": "zip -FS search-birthday-idol-addon.zip dist"
