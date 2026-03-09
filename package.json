@@ -14,7 +14,7 @@
   "author": "Yuta Goto",
   "license": "ISC",
   "devDependencies": {
-    "@rspack/cli": "^1.7.6",
+    "@rspack/cli": "^1.7.7",
     "@rspack/core": "^1.7.2",
     "oxlint": "^1.51.0",
     "sparql-http-client": "^3.1.0"
